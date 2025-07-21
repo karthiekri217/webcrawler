@@ -51,4 +51,4 @@ pip install -r requirements.txt
 
 ## 7. type the command "streamlit run streamlit_app.py" in your project terminal
 
-## 8. Enjoy the working app
+## 8. Enjoy the working application
